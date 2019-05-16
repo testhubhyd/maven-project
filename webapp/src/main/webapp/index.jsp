@@ -1,4 +1,3 @@
 Hello, World!
-hi!!
-Lab 7deploy
-end of file
+This is a sample project through github integration.
+Please check this out
